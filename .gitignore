@@ -1,2 +1,4 @@
+.idea
 main.py
-.gitignore\pycash
+.gitignore
+pycash
